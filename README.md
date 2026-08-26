@@ -92,11 +92,11 @@ Também poderá:
 
 # Equipe
 
-| Integrante           | Responsabilidade                            |
+| Integrantes          | Responsabilidades                           |
 | -------------------- | ------------------------------------------- |
-| Nome do Integrante 1 | Responsável pelo Produto                    |
-| Nome do Integrante 2 | Responsável pela Tecnologia                 |
-| Nome do Integrante 3 | Responsável pela Pesquisa e Usuário         |
-| Nome do Integrante 4 | Responsável pela Organização e Documentação |
+| Ângela kyara         | Responsável pelo Produto                    |
+| Maria Larissa        | Responsável pela Tecnologia                 |
+| Isabelle Lopes       | Responsável pela Pesquisa e Usuário         |
+| Maria Larissa        | Responsável pela Organização e Documentação |
 
 > As responsabilidades servem para organizar o trabalho da equipe. Todos os integrantes participam das decisões do projeto.
