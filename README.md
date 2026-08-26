@@ -21,8 +21,6 @@ Alguns exemplos são:
 * Pessoas que vendem produtos pelo WhatsApp
 * Outros pequenos negócios que realizam entregas.
 
----
-
 # Solução
 
 O **Organiza Entregas** será uma solução para ajudar pequenos comerciantes a registrar e organizar seus pedidos.
