@@ -17,7 +17,6 @@ Alguns exemplos são:
 
 * Lanchonetes
 * Pizzarias
-* Pequenas lojas
 * Pessoas que vendem produtos pelo WhatsApp
 * Outros pequenos negócios que realizam entregas.
 
