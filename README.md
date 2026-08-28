@@ -34,9 +34,9 @@ O sistema poderá permitir o registro de informações como:
 
 Os pedidos poderão ser acompanhados por etapas, como:
 
-*  Pedido recebido;
-*  Em preparação;
-*  Saiu para entrega;
+*  Pedido recebido
+*  Em preparação
+*  Saiu para entreg
 *  Entregue.
 
 
@@ -52,11 +52,11 @@ Entender como pequenos comerciantes organizam atualmente seus pedidos e criar um
 
 # Tarefas da Sprint
 
-* [ ] Conversar com pelo menos um pequeno comerciante;
-* [ ] Entender como os pedidos são organizados atualmente;
-* [ ] Identificar as principais dificuldades;
-* [ ] Definir quais informações são necessárias para registrar um pedido;
-* [ ] Criar uma primeira ideia da solução;
+* [ ] Conversar com pelo menos um pequeno comerciante
+* [ ] Entender como os pedidos são organizados atualmente
+* [ ] Identificar as principais dificuldades
+* [ ] Definir quais informações são necessárias para registrar um pedido
+* [ ] Criar uma primeira ideia da solução
 * [ ] Apresentar a ideia para um possível usuário e coletar feedback.
 
 
